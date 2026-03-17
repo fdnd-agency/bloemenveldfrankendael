@@ -5,3 +5,16 @@ years: [1]
 main_link: "https://bloemenveldfrankendael.agency.fdnd.nl/"
 dev_link: "https://bloemenveldfrankendael.dev.fdnd.nl/"
 tech_stack: ["SvelteKit", "Directus"]
+team:
+  - name: 'Gijs'
+    github: 'GijsNagtegaal'
+  - name: 'Tin'
+    github: 'WebTins'
+  - name: 'Seb'
+    github: 'SebBastiaans'
+  - name: 'Kevin'
+    github: 'toasterbath0758'
+  - name: 'Bronx'
+    github: 'bronxpostma13'
+  - name: 'Lynn'
+    github: 'lynnvdbo'
